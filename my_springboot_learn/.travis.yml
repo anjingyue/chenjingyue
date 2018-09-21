@@ -1,7 +1,7 @@
 deploy:
   provider: pages
   skip-cleanup: true
-  github-token: git@github.com:anjingyue/chenjingyue.git
+  github-token: 9355d0120766c5b08df40c01b1efd4d8c61f43ca
   keep-history: true
   on:
-    branch: master
+    branch: dev
